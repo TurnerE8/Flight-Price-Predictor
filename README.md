@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/dilwong/flightprices
 https://www.bts.gov/browse-statistical-products-and-data
 
 
-# Role Assignments throughout our project 
+# Role Assignments For our Project 
 
 ## Role Assignment:
 
@@ -27,3 +27,14 @@ https://www.bts.gov/browse-statistical-products-and-data
 - Cleaning Data @ Nick
 - Visualizations via Tableau @ Allie
 - Presentation @ Max
+
+# Segment 1 Deliverable: Data Cleaning and Presentation
+- Content 
+  - Clean data by eliminating unnecessary columns (legID, fairBasisCode, elapsed Days, baseFare, seatsRemaining, 'segment' columns)
+   - creation of a new column named: "searchDaysBeforeFlight"
+   - store the five files into dataframes, convert to csv and merge into one dataframe 
+  - Creation of one stored data table 
+- Presentation 
+  - Selected topic and reasoning behind the selection 
+  - A description of the data 
+  - Question(s) we plan to answer 
