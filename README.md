@@ -38,13 +38,14 @@ https://www.bts.gov/browse-statistical-products-and-data
    
    <img width="764" alt="image" src="https://user-images.githubusercontent.com/115503996/227392089-173f9715-1d07-4e85-ad31-37eaa354d9c3.png">
 
-   
    - store the five files into dataframes, convert to csv and merge into one dataframe
    
    <img width="763" alt="image" src="https://user-images.githubusercontent.com/115503996/227392359-7ca0f796-a608-4a46-bdc2-310d574273da.png">
-
-   
+  
   - Creation of one stored data table 
+  
+  <img width="769" alt="image" src="https://user-images.githubusercontent.com/115503996/227392600-849a18c6-5627-4261-ba84-51444c6dd870.png">
+
 - Presentation 
   - Selected topic and reasoning behind the selection 
   - A description of the data 
