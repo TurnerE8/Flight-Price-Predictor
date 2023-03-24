@@ -53,7 +53,7 @@ https://www.bts.gov/browse-statistical-products-and-data
   
 # Segment 2 Deliverable: Machine Learning
 - Content 
- - Machine learning model with a confusion matrix and accuracy score 
+  - Machine learning model with a confusion matrix and accuracy score 
 - Presentation 
- - Description of data exploration 
- - Technologies, languages, tools and algorithms that the team used throughout the project
+  - Description of data exploration 
+  - Technologies, languages, tools and algorithms that the team used throughout the project
