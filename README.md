@@ -35,6 +35,10 @@ https://www.bts.gov/browse-statistical-products-and-data
   <img width="759" alt="image" src="https://user-images.githubusercontent.com/115503996/227391808-63d52e99-54b9-45ab-b7f7-6c5537369fc5.png">
   
    - creation of a new column named: "searchDaysBeforeFlight"
+   
+   <img width="764" alt="image" src="https://user-images.githubusercontent.com/115503996/227392089-173f9715-1d07-4e85-ad31-37eaa354d9c3.png">
+
+   
    - store the five files into dataframes, convert to csv and merge into one dataframe 
   - Creation of one stored data table 
 - Presentation 
