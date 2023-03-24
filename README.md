@@ -31,6 +31,9 @@ https://www.bts.gov/browse-statistical-products-and-data
 # Segment 1 Deliverable: Data Cleaning and Presentation
 - Content 
   - Clean data by eliminating unnecessary columns (legID, fairBasisCode, elapsed Days, baseFare, seatsRemaining, 'segment' columns)
+  
+  <img width="759" alt="image" src="https://user-images.githubusercontent.com/115503996/227391808-63d52e99-54b9-45ab-b7f7-6c5537369fc5.png">
+  
    - creation of a new column named: "searchDaysBeforeFlight"
    - store the five files into dataframes, convert to csv and merge into one dataframe 
   - Creation of one stored data table 
