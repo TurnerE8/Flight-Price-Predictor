@@ -52,17 +52,18 @@ https://www.bts.gov/browse-statistical-products-and-data
   - Question(s) we plan to answer 
   
 # Segment 2 Deliverable: Machine Learning
- - Content 
+- Content 
    - Prelimenary Results 
     - Prior to running our models, we did the following: 
     - convert 'flight date' to a number format by the day of the week and then convert that into a series using: 
-    
-    <img width="763" alt="image" src="https://user-images.githubusercontent.com/115503996/227392359-7ca0f796-a608-4a46-bdc2-310d574273da.png">
+
+   <img width="754" alt="conversion_to_series" src="https://user-images.githubusercontent.com/115503996/228992224-da0ffae0-819c-47eb-a1ea-55797c1b956b.png">
+
 
    - We used two different machine learning models: 1) Linear Regression and 2) Random Forester Regressor 
    
     1) Linear Regression
    
- - Presentation 
+- Presentation 
   - Description of data exploration 
    - Technologies, languages, tools and algorithms that the team used throughout the project
