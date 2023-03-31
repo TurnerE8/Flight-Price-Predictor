@@ -54,8 +54,8 @@ https://www.bts.gov/browse-statistical-products-and-data
 # Segment 2 Deliverable: Machine Learning
 - Content 
    - Prelimenary Results 
-    - Prior to running our models, we did the following: 
-    - convert 'flight date' to a number format by the day of the week and then convert that into a series using: 
+     - Prior to running our models, we did the following: 
+     - convert 'flight date' to a number format by the day of the week and then convert that into a series using: 
 
    <img width="754" alt="conversion_to_series" src="https://user-images.githubusercontent.com/115503996/228992224-da0ffae0-819c-47eb-a1ea-55797c1b956b.png">
 
