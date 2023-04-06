@@ -96,3 +96,10 @@ https://www.bts.gov/browse-statistical-products-and-data
      - Results: 
        - root_mean_squared error of: 225.30467757297035
        - R-Score: .35
+       
+  - Measure of Importance based on testing 
+  
+  ![image](https://user-images.githubusercontent.com/115503996/230485761-233decb6-142a-43f4-b65a-db67e291e6f8.png)
+
+- Final Presentation
+  - https://docs.google.com/presentation/d/1Z56M_mGBR6sp_d1H0qI4IJTkHNKHgsX0X9bci015TuQ/edit#slide=id.g21e7f5a8eb1_0_76  
