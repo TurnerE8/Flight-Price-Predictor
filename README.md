@@ -92,4 +92,7 @@ https://www.bts.gov/browse-statistical-products-and-data
 - Content 
   - We used one final machine learning model 
   
-    1) 
+    1) XGBR Regression
+     - Results: 
+       - root_mean_squared error of: 225.30467757297035
+       - R-Score: .35
