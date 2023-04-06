@@ -88,3 +88,8 @@ https://www.bts.gov/browse-statistical-products-and-data
 - Presentation 
   - https://docs.google.com/presentation/d/1Z56M_mGBR6sp_d1H0qI4IJTkHNKHgsX0X9bci015TuQ/edit?usp=sharing
   
+# Segment 3 Deliverable: Final Presentation 
+- Content 
+  - We used one final machine learning model 
+  
+    1) 
